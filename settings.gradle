@@ -1,0 +1,2 @@
+include ':wheelView', ':slidingMenu', ':LinguaTeacher', ':testapp', ':googlelibrary', ':googlelibrary-noop', ':linglibrary-core'
+

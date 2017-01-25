@@ -1,0 +1,118 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="banner_ad_unit_id">ca-app-pub-7734400213523992/1661601865</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="app_name">Lingua Teacher</string>
+    <string name="version_text">Version</string>
+    <string name="developer_text">Developer</string>
+    <string name="about_program_text">About program</string>
+    <string name="press_again_text">Press again to exit</string>
+    <string name="next_repeat_text">Next repeat: </string>
+    <string name="missing_text">Missing</string>
+    <string name="no_words_for_workout_text">No words for the workout!</string>
+    <string name="all_set_text">All</string>
+    <string name="widget_name">Lingua Teacher mini</string>
+
+    <string name="choose_lang_text">Select the language or study the dictionary</string>
+    <string name="tip">Tip</string>
+    <string name="news">New</string>
+    <string name="wait">Wait</string>
+    <string name="repeated">Repeated</string>
+    <string name="finished">Finished</string>
+    <string name="next_repeat">Next repeat</string>
+    <string name="word_statistics">Word statistic</string>
+    <string name="train">Train</string>
+    <string name="word">Word</string>
+    <string name="average_time">av. time</string>
+    <string name="old">Old</string>
+
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="hours">Hour</string>
+
+    <string name="all_vocabulares">All vocabulares</string>
+
+    <string name="edit_stages">Edit the stages of words</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="restore">Restore</string>
+    <string name="cannot_delete_last_step">You cannot delete the last step</string>
+    <string name="all">All</string>
+
+    <string name="rename">rename</string>
+    <string name="remove">remove</string>
+    <string name="vocabulary">vocabulary</string>
+    <string name="select_action">Select action:</string>
+    <string name="cancel">Cancel</string>
+    <string name="cant_remove_last_dict">You can\'t remove the last dictionary</string>
+    <string name="remove_dict">To remove a dictionary?</string>
+    <string name="remove_dict2">Do you want to remove a dictionary?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="vocabularyUp">Vocabulary</string>
+    <string name="removed">removed</string>
+    <string name="added">added</string>
+    <string name="select_dict">Select a dictionary</string>
+    <string name="word_saved">The word saved</string>
+    <string name="error_when_saved">Error when saving</string>
+    <string name="error_when_trans">Error in the translation of the word!</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="time_out">The time-out</string>
+    <string name="invalid_url">Invalid url</string>
+    <string name="server_not_found">The server was not found. Check your connection</string>
+    <string name="server_not_found_check_adress">The server was not found. Check the address in the search string for errors</string>
+    <string name="error_loading_page">Error loading page</string>
+
+    <string name="now">Now</string>
+    <string name="m20minutes">more than 20 minutes ago</string>
+    <string name="m1hour">more than an hour ago</string>
+    <string name="m1day">more than a day ago</string>
+    <string name="m1week">more than a week ago</string>
+    <string name="m1month">more than a month ago</string>
+    <string name="m1year">more than a year</string>
+
+    <string name="tip_train_room3">The words are repeated at time intervals. Each stage has a time after which the word becomes available for review. You can edit the number of stages and their duration in the settings.</string>
+    <string name="tip_train_room2">To add new words you can use a built-in web browser</string>
+    <string name="tip_train_room1">Select the dictionary in the top tab. Use the buttons for training new or to repeat old words.</string>
+
+    <string name="tip_train1">Swipe down  this means the card is correctly remembered. Swipe up this card is incorrectly remembered. After 4 successful attempts, the card is removed.</string>
+    <string name="tip_train2">Swipe left or right to flip the card.</string>
+
+
+    <string name="enable_background_audio">Play in background</string>
+
+    <string name="video">Video</string>
+
+    <string name="audio">Audio</string>
+
+    <string name="text">Text</string>
+
+    <string name="logging">Logging</string>
+
+    <string name="logging_normal">Normal</string>
+
+    <string name="logging_verbose">Verbose</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="off">[off]</string>
+
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+
+    <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+
+</resources>
+

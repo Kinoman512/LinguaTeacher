@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinguaTeacher.iml" filepath="$PROJECT_DIR$/LinguaTeacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinguaTeacher/LinguaTeacher-LinguaTeacher.iml" filepath="$PROJECT_DIR$/LinguaTeacher/LinguaTeacher-LinguaTeacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlelibrary/googlelibrary.iml" filepath="$PROJECT_DIR$/googlelibrary/googlelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googlelibrary-noop/googlelibrary-noop.iml" filepath="$PROJECT_DIR$/googlelibrary-noop/googlelibrary-noop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linglibrary-core/linglibrary-core.iml" filepath="$PROJECT_DIR$/linglibrary-core/linglibrary-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenu/slidingMenu.iml" filepath="$PROJECT_DIR$/slidingMenu/slidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testapp/testapp.iml" filepath="$PROJECT_DIR$/testapp/testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheelView/wheelView.iml" filepath="$PROJECT_DIR$/wheelView/wheelView.iml" />
+    </modules>
+  </component>
+</project>

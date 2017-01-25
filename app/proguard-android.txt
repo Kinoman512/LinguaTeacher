@@ -1,0 +1,4 @@
+-dontwarn org.apache.commons.codec.binary.** 
+-dontwarn org.slf4j.** 
+-dontwarn com.sun.syndication.io.**
+-dontwarn com.sun.syndication.feed.synd.*   
