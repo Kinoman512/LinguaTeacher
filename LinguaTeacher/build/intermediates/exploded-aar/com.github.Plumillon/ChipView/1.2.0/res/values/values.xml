@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/build/library/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="chip_background">#BDBDBD</color>
+    <color name="chip_background_selected">#9E9E9E</color>
+    <declare-styleable name="ChipView"><attr format="dimension" name="chip_spacing"/><attr format="dimension" name="chip_line_spacing"/><attr format="dimension" name="chip_padding"/><attr format="dimension" name="chip_side_padding"/><attr format="dimension" name="chip_corner_radius"/><attr format="reference" name="chip_background"/><attr format="reference" name="chip_background_selected"/><attr format="reference" name="chip_background_res"/></declare-styleable>
+    <!-- From: file:/build/library/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="chip_corner_radius">16dp</dimen>
+    <dimen name="chip_line_spacing">4dp</dimen>
+    <dimen name="chip_padding">2dp</dimen>
+    <dimen name="chip_side_padding">6dp</dimen>
+    <dimen name="chip_spacing">4dp</dimen>
+    <!-- From: file:/build/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ChipView Library</string>
+</resources>

@@ -1,0 +1,4 @@
+#Wed Jan 25 17:59:31 MSK 2017
+base.0=C\:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\transforms\\dex\\defaultFlavor\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\transforms\\dex\\defaultFlavor\\release\\folders\\1000\\1f\\main\\classes.dex

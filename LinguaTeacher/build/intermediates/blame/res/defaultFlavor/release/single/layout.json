@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_playlist_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\history_list.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\history_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\player_tips.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\player_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\dialog_create_video.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\dialog_create_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\video_grid.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\video_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\directory_view.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\directory_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\dialog_selectlist.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\dialog_selectlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\equalizer_bar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\equalizer_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_primary.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_expandable.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_expandable.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\vlcwidget.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\vlcwidget.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\about.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_divider.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_header.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_switch.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_media_switcher_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_media_switcher_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_stage.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_stage.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\search_bar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\cell_set.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\cell_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_profile_setting.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_profile_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\materialize.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialize\\0.8.2\\res\\layout\\materialize.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\item_word_trainres.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\item_word_trainres.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_player.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_video.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_toggle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\not_compatible.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\not_compatible.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\player_remote_control.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\player_remote_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_cardtrain.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_cardtrain.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\view_word_video.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\view_word_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\dialog_renameset.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\dialog_renameset.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_profile.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\slidingmenumain.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\LinguaTeacher\\slidingMenu\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_section.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_section.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_browser.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_albums_songs.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_albums_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_vocabulary.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_vocabulary.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\about_main.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\about_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\list_header.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_secondary_switch.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_secondary_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_recycler_view.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\search.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\sidebar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\sidebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_container.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_expanded.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\notification_expanded.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\dialog_newsetwords.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\dialog_newsetwords.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_browser_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_browser_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\item_word.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\item_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\popup_window_subtext.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\popup_window_subtext.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\expandable_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\expandable_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_playlist_tips.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_playlist_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_fits_not.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_fits_not.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\view_card.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\view_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\player_remote.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\player_remote.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\media_info.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\media_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\expandable_time_sleep.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\expandable_time_sleep.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_playlist_item_drag_shadow.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_playlist_item_drag_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\dialog_newword.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\dialog_newword.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\main.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\activity_extra.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\activity_extra.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\player.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\tab_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\info_dialog.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\info_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\view_tokenword.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\view_tokenword.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\sidebar_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\sidebar_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\advanced_options.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\advanced_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\directory_view_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\directory_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\item_stage.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\item_stage.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\debug_log.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\debug_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\sliding_menu.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\sliding_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\video_grid_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\video_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\video_list_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\video_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\equalizer.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\equalizer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_browser_separator.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_browser_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\audio_player_tips.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\audio_player_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\list_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_set.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_set.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\native_crash.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\native_crash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_mini_profile.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_mini_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_result_train.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_result_train.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\browser_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\browser_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_compact_header.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_compact_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\notification.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\browser.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\expandable_speed_selector.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\expandable_speed_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_slider.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\item_listdialog.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\item_listdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\snack_tokenword.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\snack_tokenword.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_secondary.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\expandable_jump_to_time.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\expandable_jump_to_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_web.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_trainroom.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_trainroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_secondary_toggle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_secondary_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\material_drawer_item_mini.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\layout\\material_drawer_item_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\fragment_web2.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\fragment_web2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\about_licence.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\layout\\about_licence.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]

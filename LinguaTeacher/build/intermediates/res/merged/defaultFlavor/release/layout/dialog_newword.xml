@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#dcdadb"
+            android:gravity="center_horizontal"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="20dp"
+                android:layout_weight="0.43">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/enter_word"
+                    android:id="@+id/textView"
+                    android:layout_margin="9dp"
+                    android:textSize="16dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/Vocabulary"
+                    android:id="@+id/mSetWord"
+                    android:layout_gravity="center"
+                    android:layout_margin="9dp"
+                    android:textSize="16dp" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="166dp"
+                        android:layout_height="wrap_content">
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/mWordInp"
+                            android:background="#ffffff"
+                            android:hint="en"
+                            android:maxLines="1"
+                            android:maxLength="25"
+                            android:textCursorDrawable="@null"/>
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/mWordInp2"
+                            android:background="#ffffff"
+                            android:hint="ru"
+                            android:layout_marginTop="9dp"
+                            android:maxLength="25"
+                            android:maxLines="1"
+                            android:textCursorDrawable="@null" />
+                    </LinearLayout>
+
+                    <org.ling.fragment.view.SearchWordBtn
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        app:iiv_color="@android:color/holo_red_dark"
+                        app:iiv_icon="gmd-search"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:id="@+id/btnSearchWord"
+                        android:layout_marginLeft="22dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:id="@+id/textView4"
+                    android:layout_gravity="center"
+                    android:layout_margin="9dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/pbDialog"
+            android:layout_centerHorizontal="true"
+            android:hapticFeedbackEnabled="false" />
+    </RelativeLayout>
+
+
+</LinearLayout>

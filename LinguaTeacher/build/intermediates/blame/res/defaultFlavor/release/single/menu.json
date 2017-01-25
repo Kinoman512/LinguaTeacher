@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\menu_main.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\menu_insert.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\menu_insert.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\translate.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\translate.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\menu_toolbar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\menu_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\audio_list_browser.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\audio_list_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\train_words_menu.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\train_words_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\menu_trans.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\menu_trans.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\vocabulary_menu.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\vocabulary_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\video_list.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\video_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\history_view.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\history_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\directory_view.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\directory_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\menu\\audio_player.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\menu\\audio_player.xml"
+    }
+]

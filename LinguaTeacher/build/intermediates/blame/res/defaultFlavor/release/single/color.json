@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\list_title_last.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\color\\list_title_last.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\list_subtitle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\color\\list_subtitle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\bt_list_title.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\color\\bt_list_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\list_title.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\color\\list_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\button_oval.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\button_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\header_fadein_overlay.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\header_fadein_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_pause_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_pause_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\camera.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_dots_circle_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_dots_circle_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\greenbutton.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\greenbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\success_bow.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\success_bow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_stop_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_stop_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\langs_ic.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\langs_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_audio_circle2.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_audio_circle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\oval_shape.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\oval_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\gray_button_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\gray_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\header.jpg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\header.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_pause_circle_big_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_pause_circle_big_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_more.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\color_cursor.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\color_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\tab_indicator.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\material_drawer_shadow_bottom.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\drawable\\material_drawer_shadow_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\material_drawer_circle_mask.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\drawable\\material_drawer_circle_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\success_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\success_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_previous.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\material_drawer_badge.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\drawable\\material_drawer_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\htmlweb.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\htmlweb.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\progress_mini_player.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\progress_mini_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\custom_progressbar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_subtitle_circle_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_subtitle_circle_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_next.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\po_seekbar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\slavik.jpg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\slavik.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_subtitle_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_subtitle_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_play_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_play_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\rounded_edittext.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\square_with_rad.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\square_with_rad.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\actionbar_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\actionbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_crop_circle_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_crop_circle_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_pause.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\error_center_x.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\error_center_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\material_drawer_shadow_left.9.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\drawable\\material_drawer_shadow_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\header_fadeout_overlay.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\header_fadeout_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\progress.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\blue_button_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\shadow_193236.9.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\shadow_193236.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_stop.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\my_edit_text.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\my_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\video_list_length_bg.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\video_list_length_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\audio_playlist_shadow.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\audio_playlist_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\mini_player_top_shadow.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\mini_player_top_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\button_one.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\button_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\material_drawer_shadow_top.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\drawable\\material_drawer_shadow_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\litespoileredtext.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\litespoileredtext.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_audio_circle_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_audio_circle_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\material_drawer_shadow_right.9.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.3\\res\\drawable\\material_drawer_shadow_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\drawable_with_shadow_border.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\drawable_with_shadow_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\setwordnone.jpg",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\setwordnone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_previous_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_previous_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\bt_header_fadeout_overlay.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\bt_header_fadeout_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_play.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_circle.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\warning_sigh.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\warning_sigh.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\LinguaTeacher\\wheelView\\unspecified\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_navmenu_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_navmenu_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\background_item.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\background_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\warning_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\warning_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\tab_selected.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_pause_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_pause_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_play_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_play_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\seekbar_thumb.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\tab_unselected.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\tab_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_crop_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_crop_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\red_button_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\flags_ic.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\flags_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\tab_pressed.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\tab_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\list_activated_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\list_activated_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\bt_header_fadein_overlay.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\bt_header_fadein_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\gridview_progressbar.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\gridview_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\error_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\error_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_forward_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_forward_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\yellowbutton.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\yellowbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_audio_circle.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_audio_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_backward_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_backward_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\cone.png",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\cone.png"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_navmenu_circle_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_navmenu_circle_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_play_circle_big_o.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_play_circle_big_o.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\ic_next_w.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\ic_next_w.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\dialog_background.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\res\\merged\\defaultFlavor\\release\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\User.USER-PK\\Desktop\\LinguaTeacher\\LinguaTeacher\\build\\intermediates\\exploded-aar\\LinguaTeacher\\wheelView\\unspecified\\res\\drawable\\wheel_bg.xml"
+    }
+]

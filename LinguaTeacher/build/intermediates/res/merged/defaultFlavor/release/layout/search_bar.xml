@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f9f7f7"
+        android:layout_margin="3dp">
+        <com.mikepenz.iconics.view.IconicsImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            app:iiv_color="@android:color/background_dark"
+            app:iiv_icon="cmd_note_outline"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="6dp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:minWidth="200dp"
+            android:maxWidth="300dp"
+            android:layout_gravity="center"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/edtSearch"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:imeOptions="actionSearch"
+                android:minWidth="50dp"
+                android:textCursorDrawable="@null"
+                android:background="#ffffff"
+                android:inputType="textNoSuggestions|textUri"
+
+                android:layout_weight="0.28" />
+
+        </LinearLayout>
+
+        <org.ling.fragment.view.WebLoadButton
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/webLoadBtn"
+            app:iiv_color="@android:color/background_dark"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="6dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+</LinearLayout>

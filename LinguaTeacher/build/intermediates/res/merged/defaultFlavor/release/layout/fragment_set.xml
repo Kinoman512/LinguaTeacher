@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#e6e6e6"
+    android:id="@+id/container1">
+
+    <GridView
+
+        android:id="@+id/mSetWords3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+
+        android:numColumns="2"
+        android:columnWidth="100dp"
+        android:stretchMode="columnWidth"
+
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="35dp"
+        android:scrollbars="vertical"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/fabCreateSet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_input_add"
+        android:background="@color/lightRed"
+        android:layout_gravity="end|bottom"
+        app:behavior_hideable="true"
+        android:layout_marginBottom="47dp"
+        android:layout_alignBottom="@+id/mSetWords3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="15dp" />
+</RelativeLayout>

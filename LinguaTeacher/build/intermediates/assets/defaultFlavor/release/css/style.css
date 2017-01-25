@@ -1,0 +1,10 @@
+#block {
+	 margin-left: 10%;
+	 margin-top: 20%;
+     margin-right: 30%;
+}
+H3 {
+    font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */
+    font-size: 150%; /* Размер текста */
+    font-weight: lighter; /* Светлое начертание */
+   }

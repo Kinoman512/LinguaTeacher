@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#dcd6d6"
+        android:id="@+id/sectionWord">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/mDate"
+            android:layout_marginLeft="22dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/activatedBackgroundIndicator">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sectionWord1">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:layout_marginTop="16dp">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:layout_gravity="center_vertical">
+
+                    <org.ling.fragment.view.PopupMenuBotton
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        app:iiv_icon="gmd-volume-up"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:id="@+id/btn_popup_sound_front"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="4dp" />
+
+                    <org.ling.fragment.view.PlaySoundBotton
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        app:iiv_color="@android:color/holo_red_dark"
+                        app:iiv_icon="gmd-volume-up"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:id="@+id/btn_play_front"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginRight="5dp" />
+
+                    <com.mikepenz.iconics.view.IconicsImageView
+                        android:layout_width="22dp"
+                        android:layout_height="22dp"
+                        app:iiv_icon="gmd-check-circle"
+                        app:iiv_color="@color/green"
+                        android:id="@+id/checkYes"
+                        android:visibility="gone">
+
+                    </com.mikepenz.iconics.view.IconicsImageView>
+
+                    <TextView
+                        android:layout_width="30dp"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="1/2"
+                        android:id="@+id/txt_stage"
+                        android:textSize="15dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="4dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="24dp"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="DateText"
+                        android:id="@+id/dateTxt"
+                        android:textSize="9dp"
+                        android:layout_marginLeft="7dp"
+                        android:padding="5dp"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="184dp"
+                    android:layout_height="match_parent"
+                    android:id="@+id/mCommonWord"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="5dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text=" Medium Text Medium Text Medium Text "
+                        android:id="@+id/wordSource"
+                        android:singleLine="true"
+                        android:padding="2dp" />
+
+                    <TextView
+                        android:layout_width="90dp"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Small Text Small Text"
+                        android:id="@+id/wordDest"
+                        android:singleLine="true"
+                        android:layout_margin="2dp" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <org.ling.fragment.view.PopupMenuBotton
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        app:iiv_icon="gmd-volume-up"
+                        android:id="@+id/btn_popup_sound_back"
+                        android:layout_gravity="center_vertical"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/btn_play_back"
+                        android:layout_toStartOf="@+id/btn_play_back"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginEnd="15dp"
+                        android:layout_alignParentEnd="false" />
+
+                    <org.ling.fragment.view.PlaySoundBotton
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        app:iiv_color="@android:color/holo_red_dark"
+                        app:iiv_icon="gmd-volume-up"
+                        android:id="@+id/btn_play_back"
+                        android:layout_gravity="center_vertical"
+                        android:layout_alignTop="@+id/btn_popup_sound_back"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginRight="26dp"
+                        android:layout_marginEnd="26dp" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

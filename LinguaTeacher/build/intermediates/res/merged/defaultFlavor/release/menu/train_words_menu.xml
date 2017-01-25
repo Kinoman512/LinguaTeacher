@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_tw1"
+        android:checkable="true"
+        android:checked="false"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/play_in_circle" />
+    <item
+        android:id="@+id/menu_tw2"
+        android:checkable="true"
+        android:checked="false"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/hide_images"/>
+    <item
+        android:id="@+id/menu_tw3"
+        android:checkable="true"
+        android:checked="false"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/turn"/>
+    <item
+        android:id="@+id/menu_tw4"
+        android:checkable="true"
+        android:checked="false"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/skip_mistakes" />
+</menu>

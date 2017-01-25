@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/stage_holder"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:text="@string/year"
+            android:id="@+id/textView7"
+            android:textSize="16sp"
+            android:gravity="center_horizontal"
+            android:textIsSelectable="false"
+            android:layout_marginLeft="65dp"
+            android:layout_marginRight="1dp" />
+
+        <TextView
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:text="@string/month"
+            android:id="@+id/textView8"
+            android:textSize="15dp"
+            android:gravity="center_horizontal"
+            android:textIsSelectable="false"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp" />
+
+        <TextView
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:text="@string/day"
+            android:id="@+id/textView9"
+            android:textSize="16dp"
+            android:gravity="center_horizontal"
+            android:textIsSelectable="false"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp" />
+
+        <TextView
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:text="@string/hours"
+            android:id="@+id/textView10"
+            android:textSize="16dp"
+            android:gravity="center_horizontal"
+            android:textIsSelectable="false"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/stage_front"
+        android:layout_marginTop="4dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="4dp">
+
+        <com.mikepenz.iconics.view.IconicsImageView
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            app:iiv_color="@color/black"
+            app:iiv_icon="gmd-add"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/btn_stage_add"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="L"
+            android:id="@+id/stage_pos"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:textSize="18dp"
+            android:layout_marginTop="8dp" />
+
+        <EditText
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/yearField"
+            android:maxLength="3"
+            android:gravity="center_horizontal"
+            android:background="@drawable/rounded_edittext"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:numeric="integer"
+            android:layout_marginTop="8dp"
+            android:textCursorDrawable="@null"/>
+
+        <EditText
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/monthField"
+            android:maxLength="3"
+            android:gravity="center_horizontal"
+            android:background="@drawable/rounded_edittext"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:numeric="integer"
+            android:layout_marginTop="8dp"
+            android:textCursorDrawable="@null"/>
+
+        <EditText
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/dayField"
+            android:maxLength="3"
+            android:gravity="center_horizontal"
+            android:background="@drawable/rounded_edittext"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:numeric="integer"
+            android:layout_marginTop="8dp"
+            android:textCursorDrawable="@null"/>
+
+        <EditText
+            android:layout_width="47dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/hourField"
+            android:maxLength="3"
+            android:gravity="center_horizontal"
+            android:background="@drawable/rounded_edittext"
+            android:layout_marginLeft="1dp"
+            android:layout_marginRight="1dp"
+            android:numeric="integer"
+            android:layout_marginTop="8dp"
+            android:textCursorDrawable="@null"/>
+
+        <com.mikepenz.iconics.view.IconicsImageView
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            app:iiv_color="@android:color/black"
+            app:iiv_icon="gmd-delete"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/btn_stage_delete"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/stage_back"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/restoreStage"
+            android:gravity="center_vertical|center|center_horizontal" />
+    </LinearLayout>
+
+</LinearLayout>

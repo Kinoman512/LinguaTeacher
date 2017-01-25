@@ -1,0 +1,4 @@
+<!-- From: file:/home/maffen/workspace/vlc-android-sdk/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="org.videolan.libvlc">
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="19"/>
+
+</manifest>
